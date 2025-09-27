@@ -16,7 +16,7 @@ Built on **Windows Server 2022 (Domain Controller)** and **Windows 11 (domain-jo
 📸 Screenshots:  
 | DC Promotion | OU Structure |  
 |--------------|--------------|  
-| ![Promotion](screenshots/setup/dc-promotion.png) | ![OUs](screenshots/setup/ou-structure.png) |  
+| ![Promotion](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/promotingdc.png.webp) | ![OUs](screenshots/setup/ou-structure.png) |  
 
 
 ---
