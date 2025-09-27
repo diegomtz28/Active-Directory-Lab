@@ -59,7 +59,7 @@ Built on **Windows Server 2022 (Domain Controller)** and **Windows 11 (domain-jo
 📸 Screenshots:  
 | GPO Created | Password Policy | Account Lockout Policy | Guest Account Disabled | gpupdate /force |  
 |-------------|-----------------|------------------------|------------------------|-----------------|  
-| ![GPO](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Group%20policy%20Creation.png) | ![PassPolicy](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Password%20Policy%20Enforced.png) | ![Lockout](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Account%20Lockout%20Policy.png) | ![GuestDisabled](screenshots/security/guest-disabled.png) | ![Gpupdate](screenshots/security/gpupdate.png) |  
+| ![GPO](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Group%20policy%20Creation.png) | ![PassPolicy](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Password%20Policy%20Enforced.png) | ![Lockout](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Account%20Lockout%20Policy.png) | ![GuestDisabled](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Guest%20Account%20Disabled.png) | ![Gpupdate](screenshots/security/gpupdate.png) |  
 
 ---
 
