@@ -28,11 +28,16 @@ Built on **Windows Server 2022 (Domain Controller)** and **Windows 11 (domain-jo
 - Created security groups: `Human Resources`, `Help Desk`, `Sales Users`.  
 - Delegated password reset rights to Help Desk.  
 
-📸 Screenshots:   
-|-------------------|---------------|----------------|  
-| PowerShell Script | Users Created | Groups in ADUC |
-|-------------------|---------------|----------------|
-| [![PS](docs/images/powershell-script.png)](docs/images/powershell-script.png) | [![Users](docs/images/users-created.png)](docs/images/users-created.png) | [![Groups](docs/images/groups-aduc.png)](docs/images/groups-aduc.png) |
+📸 **Screenshots**
+
+**PowerShell Script**
+[![PowerShell Script](docs/images/powershell-script.png)](docs/images/powershell-script.png)
+
+**Users Created**
+[![Users Created](docs/images/users-created.png)](docs/images/users-created.png)
+
+**Groups in ADUC**
+[![Groups in ADUC](docs/images/groups-aduc.png)](docs/images/groups-aduc.png)
 
 ---
 
