@@ -8,14 +8,17 @@ Built on **Windows Server 2022 (Domain Controller)** and **Windows 11 (domain-jo
 
 ## 🛠️ Lab Setup  
 
+## 🛠️ Lab Setup  
+
 - Installed and promoted Windows Server 2022 as Domain Controller (`corp.local`).  
 - Created OU structure for HR, IT, and Sales.  
-- Installed RSAT and management tools.  
+- Used built-in AD DS management tools (ADUC, GPMC, etc.) directly on the Domain Controller for configuration.  
 
 📸 Screenshots:  
-| DC Promotion | OU Structure | RSAT Installed |  
-|--------------|--------------|----------------|  
-| ![Promotion](screenshots/setup/dc-promotion.png) | ![OUs](screenshots/setup/ou-structure.png) | ![RSAT](screenshots/setup/rsat.png) |  
+| DC Promotion | OU Structure |  
+|--------------|--------------|  
+| ![Promotion](screenshots/setup/dc-promotion.png) | ![OUs](screenshots/setup/ou-structure.png) |  
+
 
 ---
 
