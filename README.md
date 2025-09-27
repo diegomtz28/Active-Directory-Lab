@@ -44,7 +44,7 @@ Built on **Windows Server 2022 (Domain Controller)** and **Windows 11 (domain-jo
 📸 Screenshots:  
 | Shared Folders | NTFS Permissions | Drive Mapping via GPO |  
 |----------------|------------------|------------------------|  
-| ![Shares](screenshots/shares-gpo/shares.png) | ![Permissions](screenshots/shares-gpo/permissions.png) | ![DriveMapping](screenshots/shares-gpo/drive-mapping.png) |  
+| ![Shares](screenshots/shares-gpo/shares.png) | ![Permissions](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/NTFS%20permission%20set.png) | ![DriveMapping](screenshots/shares-gpo/drive-mapping.png) |  
 
 ---
 
