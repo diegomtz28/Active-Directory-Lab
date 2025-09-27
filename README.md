@@ -37,7 +37,7 @@ Built on **Windows Server 2022 (Domain Controller)** and **Windows 11 (domain-jo
 [![Users Created](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Users%20Creatwd.png.webp)](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Users%20Creatwd.png.webp)
 
 **Groups in ADUC**
-[![Groups in ADUC](docs/images/groups-aduc.png)](docs/images/groups-aduc.png)
+[![Groups in ADUC](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/groups%20created.png)](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/groups%20created.png)
 
 ---
 
