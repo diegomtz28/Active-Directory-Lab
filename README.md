@@ -6,7 +6,6 @@ Built on **Windows Server 2022 (Domain Controller)** and **Windows 11 (domain-jo
 
 ---
 
-## 🛠️ Lab Setup  
 
 ## 🛠️ Lab Setup  
 
