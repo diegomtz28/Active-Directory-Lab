@@ -29,6 +29,8 @@ Built on **Windows Server 2022 (Domain Controller)** and **Windows 11 (domain-jo
 - Delegated password reset rights to Help Desk.  
 
 📸 **Screenshots**
+| DC Promotion | OU Structure | Groups Creation |   
+|--------------|--------------|-----------------| 
 | ![Script](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/promotingdc.png.webp) | ![Ous](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/OUorganization.png.webp) | ![Groups](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/OUorganization.png.webp) | 
 
 ---
