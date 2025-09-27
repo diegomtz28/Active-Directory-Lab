@@ -31,7 +31,7 @@ Built on **Windows Server 2022 (Domain Controller)** and **Windows 11 (domain-jo
 📸 Screenshots:  
 | PowerShell Script | Users Created | Groups in ADUC |  
 |-------------------|---------------|----------------|  
-| ![Script](screenshots/users-groups/create-users-script.png) | ![Users](screenshots/users-groups/users-created.png) | ![Groups](screenshots/users-groups/groups.png) |  
+| ![Script](screenshots/users-groups/create-users-script.png) | ![Users](screenshots/users-groups/users-created.png) | ![Groups](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Groups%20Created.png) |  
 
 ---
 
