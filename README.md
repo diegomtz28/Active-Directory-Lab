@@ -74,7 +74,7 @@ While running a bulk password reset script, I accidentally included the **Domain
 📸 Screenshots:  
 | Failed Login |
 |--------------|
-| ![FailedLogin](screenshots/troubleshooting/failed-login.png) |
+| ![FailedLogin](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Login%20Not%20Working.png) |
 
 ---
 
