@@ -72,9 +72,9 @@ While running a bulk password reset script, I accidentally included the **Domain
 - All accounts reset to the same default password.  
 
 📸 Screenshots:  
-| Failed Login | Lockout Message |  
-|--------------|-----------------|  
-| ![FailedLogin](screenshots/troubleshooting/failed-login.png) | ![Lockout](screenshots/troubleshooting/lockout.png) |  
+| Failed Login |
+|--------------|
+| ![FailedLogin](screenshots/troubleshooting/failed-login.png) |
 
 ---
 
