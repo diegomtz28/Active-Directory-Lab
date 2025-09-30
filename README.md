@@ -87,7 +87,7 @@ While running a bulk password reset script, I accidentally included the **Domain
 📸 Screenshots:  
 | Local Admin Login | Resetting in ADUC | Successful Login as Domain Admin |  
 |-------------------|-------------------|----------------------------------|  
-| ![LocalAdmin](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Logged%20in%20as%20Admin.png) | ![Reset](screenshots/troubleshooting/aduc-reset.png) | ![Success](screenshots/troubleshooting/success-login.png) |  
+| ![LocalAdmin](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/Logged%20in%20as%20Admin.png) | ![Reset](https://github.com/diegomtz28/Active-Directory-Lab/blob/main/docs/images/reset%20password%20in%20AD.png) | ![Success](screenshots/troubleshooting/success-login.png) |  
 
 ---
 
